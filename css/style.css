@@ -988,6 +988,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(156 163 175 / var(--tw-text-opacity));
 }
 
+.dark .dark\:text-darkBlue2 {
+  --tw-text-opacity: 1;
+  color: hsl(216 53% 9% / var(--tw-text-opacity));
+}
+
 .dark .dark\:hover\:bg-gray-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(55 65 81 / var(--tw-bg-opacity));
