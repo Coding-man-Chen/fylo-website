@@ -29,3 +29,5 @@ npm run build
 ```
 
 You only need to deploy your html files and css/style.css
+
+You can visit the deployed prototype on [Vercel Link](https://fylo-website-seven.vercel.app/)
